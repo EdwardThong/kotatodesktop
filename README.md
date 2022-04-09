@@ -11,6 +11,8 @@ This is the complete source code and the build instructions for the alpha versio
 
 The source code is published under GPLv3 with OpenSSL exception, the license is available [here][license].
 
+NOTE: I haven't modify any of this yet. So, please stay tuned until all of these are fully modified and functional.
+
 ## Supported systems
 
 The latest version is available for
